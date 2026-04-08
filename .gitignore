@@ -24,3 +24,6 @@ node_modules/
 __pycache__/
 
 # .gitignore는 추적되지 않은 파일에만 적용
+
+# test-trackedfile
+dist/
