@@ -1,0 +1,16 @@
+logs
+*.logs # 모든 로그 파일 제외
+
+/build/
+*.o
+*.class
+
+.env
+config/local.json
+
+node_modules/
+.venv/
+
+*.log
+!important.log # important.log 파일은 제외
+
