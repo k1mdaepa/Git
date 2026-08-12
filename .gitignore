@@ -1,4 +1,5 @@
 logs
+.idea
 # 모든 로그 파일 제외
 *.logs
 
